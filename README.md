@@ -1,22 +1,19 @@
-                   -`                    huza@archlinux 
-                  .o+`                   -------------- 
-                 `ooo/                   OS: Arch Linux 
-                `+oooo:                  Host: MacBookAir
-               `+oooooo:                 Memory : 8GiB
-               -+oooooo+:                Kernel: 6.9.6-zen1-1
-             `/:-:++oooo+:               Uptime: Always
-            `/++++/+++++++:              Packages: 2979 (pacman), 28 (flatpak) 
-           `/++++++++++++++:             Shell: bash 5.2.26 
-          `/+++ooooooooooooo/`           Resolution: 1440x900 
-         ./ooosssso++osssssso+`          DE: Plasma 6.1.1 
-        .oossssso-````/ossssss+`         WM: kwin 
-       -osssssso.      :ssssssso.        Terminal: Konsole 
-      :osssssss/        osssso+++.       CPU: Intel i5-8250U (4) @ 2.600GHz 
-     /ossssssss/        +ssssooo/-       GPU: Intel 8th Gen Core processor Graphics Controller 
-   `/ossssso+/:-        -:/+osssso+-     GPU Driver: i915 
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/                           
- .`                                 `/                           
+huza@archlinux
+-------------- 
+OS: Arch Linux 
+Host: MacBookAir
+Memory: 2844672KiB / 8917824KiB 
+Kernel: 6.9.6-zen1-1 
+Uptime: Always
+Packages: 1979 (pacman), 128 (flatpak) 
+Shell: bash 5.2.26
+Resolution: 1440x900 
+DE: Plasma 6.1.1 
+WM: kwin 
+Terminal: Konsole
+CPU: Intel i5-8250U (8) @ 2.600GHz 
+GPU: Intel 3rd Gen Core processor Graphics Controller  
+          
 
 
 
